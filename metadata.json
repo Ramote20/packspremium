@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Premium de Artes para Camisetas",
+  "description": "Landing page de alta conversão e plataforma para biblioteca digital de artes e estampas de camisetas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
